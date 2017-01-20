@@ -1,0 +1,12 @@
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\bin\Debug\ListBox CRUD.exe.config
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\bin\Debug\ListBox CRUD.exe
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\bin\Debug\ListBox CRUD.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\bin\Debug\MetroFramework.Design.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\bin\Debug\MetroFramework.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\obj\Debug\ListBox CRUD.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\obj\Debug\ListBox_CRUD.Form1.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\obj\Debug\ListBox_CRUD.Properties.Resources.resources
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\obj\Debug\ListBox CRUD.csproj.GenerateResource.Cache
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\obj\Debug\ListBox CRUD.exe
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\CS\ListBox CRUD\ListBox CRUD\obj\Debug\ListBox CRUD.pdb
